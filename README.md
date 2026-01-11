@@ -12,6 +12,12 @@
 
 [已Patch支持采集内部音频的WebRTC AAR文件](https://github.com/Kauid323/whip-streamer/blob/main/app/libs/google-webrtc-1.0.32006-patched.aar)
 
+# screenshot
+![image](https://github.com/user-attachments/assets/94008479-4dd5-436f-a135-cb5349f064de)
+
+![img](https://github.com/user-attachments/assets/dda68ad0-14e5-4306-8357-7f2bd6240a0a)
+
+![image](https://github.com/user-attachments/assets/4cbfb36f-8822-410f-a0ed-6a061be3a9e4)
 
 # 采集系统音频原理（Powered By AI）
 
